@@ -1,0 +1,17 @@
+header{
+    background-color: black;
+    height: auto;
+    padding: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+.header-child{
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    width: 100px;
+    border-radius: 10px;
+}
